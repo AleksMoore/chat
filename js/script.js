@@ -1,5 +1,5 @@
 window.onload = function() {
-    alert( 'Добро пожаловать в "Чат". Приятного общения :)' );
+    alert( 'Добро пожаловать в чат!. Приятного общения :)' );
 }
     
 window.onbeforeunload = function() {
